@@ -1,0 +1,5 @@
+rootProject.name = 'spring-cloud-mydemo'
+include 'spring-cloud-eureka'
+include 'spring-cloud-producer'
+include 'spring-cloud-consumer'
+
